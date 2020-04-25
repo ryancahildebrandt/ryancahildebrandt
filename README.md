@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Ryan Hildebrandt
+---
 
-You can use the [editor on GitHub](https://github.com/ryancahildebrandt/ineedachickentender/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### *At a Glance*
 
-### Markdown
+Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics, computational linguistics, statistics, and data science. More specifically, I work to apply statistical and data science methods to the problems in front of me. And if those problems relate to how we can leverage language to improve our lives and our understanding of the world, even better!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### *Skills*
 
-# Header 1
-## Header 2
-### Header 3
+- Programming for data & statistics (*R, Python, SQL, Julia, MATLAB*)
+  
+- Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel*)
+  
+- Research (*Research design, data visualization, scientific writing*)
+  
+- Statistics (*Multiple regression, ANOVA, SEM/MLM*)
+  
+- Language (*Advanced Japanese, language instruction, natural language processing*)
+  
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+### *Resume & CV*
 
-**Bold** and _Italic_ and `Code` text
+Take a look at my [Resume](https://ryancahildebrandt.github.io/resume/) and [Curriculum Vitae](https://ryancahildebrandt.github.io/cv/)
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###
 
-### Jekyll Themes
+### *Projects*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryancahildebrandt/ineedachickentender/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Some work I've done, in no particular order:
 
-### Support or Contact
+- []()
+  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+### *Hire Me*
+
+If you're in need of tutoring or consultation for any of the following topics, please get in touch! I've worked with students ranging from high school to PhD level, both in person and digitally.
+
+- Statistics
+  
+- Psychology
+  
+- Japanese
+  
+- Linguistics
+  
+- R
+  
+
+---
+
+### *Contact & Connect*
+
+[Github](https://github.com/ryancahildebrandt) - [LinkedIn](https://linkedin.com/in/rcah) - [ResearchGate](https://researchgate.net/profile/Ryan\_Hildebrandt) <br>
+ryancahildebrandt@gmail.com
