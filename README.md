@@ -32,10 +32,9 @@ Take a look at my [Resume](https://ryancahildebrandt.github.io/resume/) and [Cur
 
 ## *Projects*
 
-Some coding/stats work I've done, in no particular order:
+Some work I've done, in no particular order:
 
-- [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, "Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"
-- [tea_temps](https://github.com/ryancahildebrandt/tea_temps), a quick dataviz and reference for getting a good cup of tea 
+- []()
 
 ---
 
