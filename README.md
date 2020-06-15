@@ -12,9 +12,9 @@ Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics
 
 ## *Skills*
 
-- Programming for data & statistics (*R, Python, SQL, Julia, MATLAB, SAS, Git*)
+- Programming for data & statistics (*R, Python, SQL, Julia, MATLAB, SAS, Git, VBA*)
 
-- Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel*)
+- Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access*)
 
 - Research (*Research design, data visualization, scientific writing*)
 
@@ -38,8 +38,9 @@ Some coding/stats work I've done, in no particular order:
 - [tea_temps](https://github.com/ryancahildebrandt/tea_temps), a quick dataviz and reference for getting a good cup of tea
 - [michelin](https://github.com/ryancahildebrandt/michelin), exploration of Michelin star restaurants
 - [movies](https://github.com/ryancahildebrandt/movies), a dataviz/exploration dashboard, *in progress*
+- *Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が, in progress*
 - *Japanese whiskey review dataset sentiment analysis,in progress*
-- *NLP project on Japanese texts or bilingual corpora, on deck*
+- *NLP project on using bilingual corpora, on deck*
 
 ---
 
