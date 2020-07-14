@@ -26,7 +26,7 @@ Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics
 
 ## *Resume & CV*
 
-Take a look at my [Resume](https://ryancahildebrandt.github.io/resume/) and [Curriculum Vitae](https://ryancahildebrandt.github.io/cv/)
+Take a look at my [Data & Stats Resume](https://ryancahildebrandt.github.io/resume/), [Japanese Language Resume](https://ryancahildebrandt.github.io/resume/jp), and [Curriculum Vitae](https://ryancahildebrandt.github.io/cv/)
 
 ---
 
@@ -34,7 +34,7 @@ Take a look at my [Resume](https://ryancahildebrandt.github.io/resume/) and [Cur
 
 Some coding/stats work I've done, in no particular order:
 
-- [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, "Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"
+- [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
 - [tea_temps](https://github.com/ryancahildebrandt/tea_temps), a quick dataviz and reference for getting a good cup of tea
 - [michelin](https://github.com/ryancahildebrandt/michelin), exploration of Michelin star restaurants
 - [movies](https://github.com/ryancahildebrandt/movies), a dataviz/exploration dashboard, *in progress*
