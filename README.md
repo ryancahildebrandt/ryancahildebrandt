@@ -1,4 +1,4 @@
-# Ryan Hildebrandt
+# Ryan Hildebrandt, MS
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## *At a Glance*
 
-Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics, computational linguistics, statistics, and data science. More specifically, I work to apply statistical and data science methods to the problems in front of me. And if those problems relate to how we can leverage language to improve our lives and our understanding of the world, even better!
+Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics, computational linguistics, statistics, data science, and Japanese. More specifically, I work to apply statistical and data science methods to the problems in front of me. And if those problems relate to how we can leverage language to improve our lives and our understanding of the world, even better!
 
 ---
 
@@ -38,9 +38,9 @@ Some coding/stats work I've done, in no particular order:
 - [tea_temps](https://github.com/ryancahildebrandt/tea_temps), a quick dataviz and reference for getting a good cup of tea
 - [michelin](https://github.com/ryancahildebrandt/michelin), exploration of Michelin star restaurants
 - [movies](https://github.com/ryancahildebrandt/movies), a dataviz/exploration dashboard, *in progress*
-- *Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が, in progress*
+- *Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が, almost done*
 - *Japanese whiskey review dataset sentiment analysis,in progress*
-- *NLP project on using bilingual corpora, on deck*
+- *NLP project using bilingual corpora, on deck*
 
 ---
 
@@ -56,7 +56,11 @@ If you're in need of tutoring or consultation for any of the following topics, p
 
 - Linguistics
 
+- Natural Language Processing
+
 - R
+
+- Python
 
 ---
 
