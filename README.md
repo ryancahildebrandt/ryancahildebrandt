@@ -32,13 +32,13 @@ Take a look at my [Data & Stats Resume](https://ryancahildebrandt.github.io/resu
 
 ## *Projects*
 
-Some coding/stats work I've done, in no particular order:
+Some coding/stats work I've done, from the most recent:
 
-- [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
-- [tea_temps](https://github.com/ryancahildebrandt/tea_temps), a quick dataviz and reference for getting a good cup of tea
+- [particles](https://github.com/ryancahildebrandt/particles) Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が
+- [movies](https://github.com/ryancahildebrandt/movies), a dataviz/exploration dashboard for the 10,000 movies dataset
 - [michelin](https://github.com/ryancahildebrandt/michelin), exploration of Michelin star restaurants
-- [movies](https://github.com/ryancahildebrandt/movies), a dataviz/exploration dashboard, *in progress*
-- *Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が, almost done*
+- [tea_temps](https://github.com/ryancahildebrandt/tea_temps), a quick dataviz and reference for getting a good cup of tea
+- [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
 - *Japanese whiskey review dataset sentiment analysis,in progress*
 - *NLP project using bilingual corpora, on deck*
 
