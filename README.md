@@ -12,7 +12,7 @@ Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics
 
 ## *Skills*
 
-- Programming for data & statistics (*R, Python, SQL, Julia, MATLAB, SAS, Git, VBA*)
+- Programming for data & statistics (*R, Python, SQL, Julia, MATLAB, SAS, Git, VBA, Regex*)
 
 - Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access*)
 
