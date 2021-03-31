@@ -34,6 +34,7 @@ Take a look at my [Data & Stats Resume](https://ryancahildebrandt.github.io/resu
 
 Some stats/NLP/dataviz work I've done, from the most recent:
 
+- [ebook_tokenizer](https://github.com/ryancahildebrandt/ebook_tokenizer), a command to add spaces between Japanese words in eBooks to work with Kindle WordWise
 - [kyoto](https://github.com/ryancahildebrandt/kyoto), an exploration of restaurants around train/subway stations in Kyoto
 - [manyogana](https://github.com/ryancahildebrandt/manyogana), an application to translate Japanese text to a modern implementation of manyogana, as well as converting arabic numerals to kansuuji
 - [particles](https://github.com/ryancahildebrandt/particles), contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が
@@ -44,8 +45,6 @@ Some stats/NLP/dataviz work I've done, from the most recent:
 - *NLP project using classical Japanese texts, on deck*
 - *Orthographic analysis of kanji and their radicals, on deck*
 - *Japanese whiskey review dataset sentiment analysis, on deck*
-
-- *tea temps v2, incorporating time and other variables into the tea temps dataviz above, on deck*
 - *pokemon, because why not? on deck*
 
 
