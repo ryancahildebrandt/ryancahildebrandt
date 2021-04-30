@@ -37,6 +37,7 @@ Take a look at my [Data & Stats Resume](https://ryancahildebrandt.github.io/resu
 - [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
 - *NLP project using classical Japanese texts, on deck*
 - *Orthographic analysis of kanji and their radicals, on deck*
+- *Automatic phoneme boundary detection (and annotation, why not?) in spoken Japanese, a bit of an aspirational project*
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
 
