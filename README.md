@@ -47,7 +47,6 @@ Take a look at my [Data & Stats Resume](https://ryancahildebrandt.github.io/resu
 - [movies](https://github.com/ryancahildebrandt/movies), a dataviz/exploration dashboard for the 10,000 movies dataset
 - [michelin](https://github.com/ryancahildebrandt/michelin), exploration of Michelin star restaurants
 - [tea_temps](https://github.com/ryancahildebrandt/tea_temps), a quick dataviz and reference for getting a good cup of tea
-- *Japanese whiskey review dataset sentiment analysis, on deck*
 - *pokemon, because why not? on deck*
 
 
