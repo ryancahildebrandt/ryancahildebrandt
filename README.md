@@ -41,6 +41,7 @@ Take a look at my [Data & Stats Resume](https://ryancahildebrandt.github.io/resu
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
 
+- [yoji](https://github.com/ryancahildebrandt/yoji), applying neural networks to generate novel 四字熟語 idioms
 - [ebook_tokenizer](https://github.com/ryancahildebrandt/ebook_tokenizer), a command to add spaces between Japanese words in eBooks to work with Kindle WordWise
 - [kyoto](https://github.com/ryancahildebrandt/kyoto), an exploration of restaurants around train/subway stations in Kyoto
 - [manyogana](https://github.com/ryancahildebrandt/manyogana), an application to translate Japanese text to a modern implementation of manyogana, as well as converting arabic numerals to kansuuji
