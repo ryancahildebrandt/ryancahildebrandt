@@ -26,7 +26,7 @@ Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics
 
 ## *Resume & CV*
 
-Take a look at my [Data & Stats Resume](https://ryancahildebrandt.github.io/resume/), [Japanese Language Resume](https://ryancahildebrandt.github.io/jp), and [Curriculum Vitae](https://ryancahildebrandt.github.io/cv/)
+Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 
 ---
 
