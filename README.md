@@ -36,7 +36,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [particles](https://github.com/ryancahildebrandt/particles), contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が
 - [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
 - [aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus), a compilation of Japanese texts pulled from 青空文庫, also available on [kaggle](https://www.kaggle.com/ryancahildebrandt/aozora-bunko-japanese-text-corpus)
-- *NLP project using classical Japanese texts, on deck*
+- [hanakotoba](https://github.com/ryancahildebrandt/hanakotoba), a project looking at the use of 花言葉 in literature 
 - *Orthographic analysis of kanji and their radicals, on deck*
 - *Automatic phoneme boundary detection (and annotation, why not?) in spoken Japanese, a bit of an aspirational project*
 
