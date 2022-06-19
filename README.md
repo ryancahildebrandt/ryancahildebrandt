@@ -14,7 +14,7 @@ Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics
 
 - Programming for data & statistics (*R, Python, SQL, Julia, MATLAB, SAS, Git, VBA, Regex*)
 
-- Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access*)
+- Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access, Power BI*)
 
 - Research (*Research design, data visualization, scientific writing*)
 
