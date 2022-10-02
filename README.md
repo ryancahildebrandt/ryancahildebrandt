@@ -37,7 +37,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
 - [aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus), a compilation of Japanese texts pulled from 青空文庫, also available on [kaggle](https://www.kaggle.com/ryancahildebrandt/aozora-bunko-japanese-text-corpus)
 - [hanakotoba](https://github.com/ryancahildebrandt/hanakotoba), a project looking at the use of 花言葉 in literature 
-- *Orthographic analysis of kanji and their radicals, on deck*
+- [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
 - *Automatic phoneme boundary detection (and annotation, why not?) in spoken Japanese, a bit of an aspirational project*
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
