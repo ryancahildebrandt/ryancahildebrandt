@@ -37,11 +37,13 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
 - [aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus), a compilation of Japanese texts pulled from 青空文庫, also available on [kaggle](https://www.kaggle.com/datasets/ryancahildebrandt/azbcorpus)
 - [hanakotoba](https://github.com/ryancahildebrandt/hanakotoba), a project looking at the use of 花言葉 in literature 
-- [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
+- [embs](https://github.com/ryancahildebrandt/embs), a project to provide tools streamlining sentence embedding or clustering techniques 
+- [siftr](https://github.com/ryancahildebrandt/siftr), a Shiny app using SIF sentence embeddings to separate out unwanted text data
 - *Automatic phoneme boundary detection (and annotation, why not?) in spoken Japanese, a bit of an aspirational project*
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
 
+- [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
 - [yoji](https://github.com/ryancahildebrandt/yoji), applying neural networks to generate novel 四字熟語 idioms
 - [ebook_tokenizer](https://github.com/ryancahildebrandt/ebook_tokenizer), a command to add spaces between Japanese words in eBooks to work with Kindle WordWise
 - [kyoto](https://github.com/ryancahildebrandt/kyoto), an exploration of restaurants around train/subway stations in Kyoto
