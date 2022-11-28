@@ -6,19 +6,19 @@
 
 ## *At a Glance*
 
-Broadly, I'm an interdisciplinary researcher with interests in psycholinguistics, computational linguistics, statistics, data science, and Japanese. More specifically, I work to apply statistical and data science methods to the problems in front of me. And if those problems relate to how we can leverage language to improve our lives and our understanding of the world, even better!
+Broadly, I'm an interdisciplinary researcher and data scientist with background in psycholinguistics, computational linguistics, statistics, and Japanese. More specifically, I work to apply statistical and data science methods to the problems in front of me. And if those problems relate to how we can leverage language to improve our lives and our understanding of the world, even better!
 
 ---
 
 ## *Skills*
 
-- Programming for data & statistics (*R, Python, SQL, Julia, MATLAB, SAS, Git, VBA, Regex*)
+- Programming (*R, Python, SQL, Julia, MATLAB, SAS, Git, VBA, Regex*)
 
 - Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access, Power BI*)
 
 - Research (*Research design, data visualization, scientific writing*)
 
-- Statistics (*Multiple regression, ANOVA, SEM/MLM*)
+- Statistics (*Bayesian & frequentist approaches, multiple regression, ANOVA, SEM/MLM*)
 
 - Language (*Advanced Japanese, language instruction, natural language processing*)
 
