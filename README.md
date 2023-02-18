@@ -39,6 +39,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [hanakotoba](https://github.com/ryancahildebrandt/hanakotoba), a project looking at the use of 花言葉 in literature 
 - [embs](https://github.com/ryancahildebrandt/embs), a project to provide tools streamlining sentence embedding or clustering techniques 
 - [siftr](https://github.com/ryancahildebrandt/siftr), a Shiny app using SIF sentence embeddings to separate out unwanted text data
+- [priors](https://github.com/ryancahildebrandt/priors), an experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
 - *Automatic phoneme boundary detection (and annotation, why not?) in spoken Japanese, a bit of an aspirational project*
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
