@@ -6,7 +6,7 @@
 
 ## *At a Glance*
 
-Broadly, I'm an interdisciplinary researcher and data scientist with background in psycholinguistics, computational linguistics, statistics, and Japanese. More specifically, I work to apply statistical and data science methods to the problems in front of me. And if those problems relate to how we can leverage language to improve our lives and our understanding of the world, even better!
+Broadly, I'm an interdisciplinary data scientist with special interests in psycholinguistics, computational linguistics, statistics, and Japanese. More specifically, I apply statistical and natural language processing techniques to solve problems and enrich my and my team's understanding of whatever data is at hand. I bring a strong statistical background to my work, whether in the form of data handling, ad-hoc statistical analyses, or machine learning applications.
 
 ---
 
