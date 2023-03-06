@@ -40,10 +40,10 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [embs](https://github.com/ryancahildebrandt/embs), a project to provide tools streamlining sentence embedding or clustering techniques 
 - [siftr](https://github.com/ryancahildebrandt/siftr), a Shiny app using SIF sentence embeddings to separate out unwanted text data
 - [priors](https://github.com/ryancahildebrandt/priors), an experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
-- *Automatic phoneme boundary detection (and annotation, why not?) in spoken Japanese, a bit of an aspirational project*
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
 
+- [shrimp](https://github.com/ryancahildebrandt/shrimp), a bayesian time series analysis of some very specifiv tweets
 - [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
 - [yoji](https://github.com/ryancahildebrandt/yoji), applying neural networks to generate novel 四字熟語 idioms
 - [ebook_tokenizer](https://github.com/ryancahildebrandt/ebook_tokenizer), a command to add spaces between Japanese words in eBooks to work with Kindle WordWise
@@ -52,8 +52,6 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [movies](https://github.com/ryancahildebrandt/movies), a dataviz/exploration dashboard for the 10,000 movies dataset
 - [michelin](https://github.com/ryancahildebrandt/michelin), exploration of Michelin star restaurants
 - [tea_temps](https://github.com/ryancahildebrandt/tea_temps), a quick dataviz and reference for getting a good cup of tea
-- *pokemon, because why not? on deck*
-
 
 ---
 
@@ -74,6 +72,10 @@ If you're in need of tutoring or consultation for any of the following topics, p
 - R
 
 - Python
+
+- NLP
+
+- Machine Learning
 
 ---
 
