@@ -43,7 +43,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
 
-- [shrimp](https://github.com/ryancahildebrandt/shrimp), a bayesian time series analysis of some very specifiv tweets
+- [shrimp](https://github.com/ryancahildebrandt/shrimp), a bayesian time series analysis of some very specific tweets
 - [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
 - [yoji](https://github.com/ryancahildebrandt/yoji), applying neural networks to generate novel 四字熟語 idioms
 - [ebook_tokenizer](https://github.com/ryancahildebrandt/ebook_tokenizer), a command to add spaces between Japanese words in eBooks to work with Kindle WordWise
@@ -69,11 +69,7 @@ If you're in need of tutoring or consultation for any of the following topics, p
 
 - Natural Language Processing
 
-- R
-
-- Python
-
-- NLP
+- R, Python, Julia, SQL
 
 - Machine Learning
 
