@@ -41,10 +41,11 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [siftr](https://github.com/ryancahildebrandt/siftr), a Shiny app using SIF sentence embeddings to separate out unwanted text data
 - [priors](https://github.com/ryancahildebrandt/priors), an experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
 - [bowts](https://github.com/ryancahildebrandt/bowts), an experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
+- [iterate](https://github.com/ryancahildebrandt/iterate), iterative clustering for sklearn clusterers
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
 
-- [iterate](https://github.com/ryancahildebrandt/iterate), iterative clustering for sklearn clusterers
+- [genji](https://github.com/ryancahildebrandt/genji), character networks in The Tale of Genji
 - [shrimp](https://github.com/ryancahildebrandt/shrimp), a bayesian time series analysis of some very specific tweets
 - [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
 - [yoji](https://github.com/ryancahildebrandt/yoji), applying neural networks to generate novel 四字熟語 idioms
