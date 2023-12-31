@@ -45,7 +45,8 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest and partially to learn different data techniques:
 
-- [genji](https://github.com/ryancahildebrandt/aozora_annotator), text annotator for Aozora Bunko corpus texts
+- [dists](https://github.com/ryancahildebrandt/dists), simple reference and tools for working with probability distributions
+- [aozora_annotator](https://github.com/ryancahildebrandt/aozora_annotator), text annotator for Aozora Bunko corpus texts
 - [genji](https://github.com/ryancahildebrandt/genji), character networks in The Tale of Genji
 - [shrimp](https://github.com/ryancahildebrandt/shrimp), a bayesian time series analysis of some very specific tweets
 - [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
