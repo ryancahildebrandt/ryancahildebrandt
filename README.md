@@ -12,7 +12,7 @@ Broadly, I'm an interdisciplinary data scientist with special interests in psych
 
 ## *Skills*
 
-- Programming (*R, Python, SQL, Julia, MATLAB, SAS, Git, VBA, Regex*)
+- Programming (*R, Python, SQL, Ruby, Julia, MATLAB, SAS, Git, VBA, Regex*)
 
 - Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access, Power BI*)
 
@@ -36,7 +36,6 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [particles](https://github.com/ryancahildebrandt/particles), contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が
 - [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
 - [aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus), a compilation of Japanese texts pulled from 青空文庫, also available on [kaggle](https://www.kaggle.com/datasets/ryancahildebrandt/azbcorpus)
-- [hanakotoba](https://github.com/ryancahildebrandt/hanakotoba), a project looking at the use of 花言葉 in literature 
 - [embs](https://github.com/ryancahildebrandt/embs), a project to provide tools streamlining sentence embedding or clustering techniques 
 - [siftr](https://github.com/ryancahildebrandt/siftr), a Shiny app using SIF sentence embeddings to separate out unwanted text data
 - [priors](https://github.com/ryancahildebrandt/priors), an experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
@@ -52,6 +51,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [genji](https://github.com/ryancahildebrandt/genji), character networks in The Tale of Genji
 - [shrimp](https://github.com/ryancahildebrandt/shrimp), a bayesian time series analysis of some very specific tweets
 - [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
+- [hanakotoba](https://github.com/ryancahildebrandt/hanakotoba), a project looking at the use of 花言葉 in literature 
 - [yoji](https://github.com/ryancahildebrandt/yoji), applying neural networks to generate novel 四字熟語 idioms
 - [ebook_tokenizer](https://github.com/ryancahildebrandt/ebook_tokenizer), a command to add spaces between Japanese words in eBooks to work with Kindle WordWise
 - [kyoto](https://github.com/ryancahildebrandt/kyoto), an exploration of restaurants around train/subway stations in Kyoto
@@ -76,7 +76,7 @@ If you're in need of tutoring or consultation for any of the following topics, p
 
 - Natural Language Processing
 
-- R, Python, Julia, SQL
+- R, Python, Julia, SQL, Ruby
 
 - Machine Learning
 
