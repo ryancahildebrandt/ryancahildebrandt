@@ -41,6 +41,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [priors](https://github.com/ryancahildebrandt/priors), an experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
 - [bowts](https://github.com/ryancahildebrandt/bowts), an experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
 - [iterate](https://github.com/ryancahildebrandt/iterate), iterative clustering for sklearn clusterers
+- [topics](https://github.com/ryancahildebrandt/topics), experiments and utilities for text topic extraction using decision trees 
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest, partially to learn different data techniques, and partially to serve as a quick reference in my day to day work:
 
