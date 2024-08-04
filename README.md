@@ -12,7 +12,7 @@ Broadly, I'm an interdisciplinary data scientist with special interests in psych
 
 ## *Skills*
 
-- Programming (*R, Python, SQL, Ruby, Julia, MATLAB, SAS, Git, VBA, Regex*)
+- Programming (*R, Python, SQL, Ruby, Julia, Go*)
 
 - Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access, Power BI*)
 
@@ -43,6 +43,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [iterate](https://github.com/ryancahildebrandt/iterate), iterative clustering for sklearn clusterers
 - [topics](https://github.com/ryancahildebrandt/topics), experiments and utilities for text topic extraction using decision trees 
 - [simsort](https://github.com/ryancahildebrandt/simsort), sorting texts by semantic similarity
+- [nlt](https://github.com/ryancahildebrandt/nlt), representing tabular data in natural language
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest, partially to learn different data techniques, and partially to serve as a quick reference in my day to day work:
 
