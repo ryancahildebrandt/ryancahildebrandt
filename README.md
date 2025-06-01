@@ -6,47 +6,49 @@
 
 ---
 
-## *At a Glance*
+## _At a Glance_
 
 Broadly, I'm an interdisciplinary data scientist with special interests in psycholinguistics, computational linguistics, statistics, and Japanese. More specifically, I apply statistical and natural language processing techniques to solve problems and enrich my and my team's understanding of whatever data is at hand. I bring a strong statistical background to my work, whether in the form of data handling, ad-hoc statistical analyses, or machine learning applications.
 
 ---
 
-## *Skills*
+## _Skills_
 
-- Programming (*R, Python, SQL, Ruby, Julia, Go*)
+- Programming (_R, Python, SQL, Ruby, Julia, Go_)
 
-- Data analysis (*MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access, Power BI*)
+- Data analysis (_MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access, Power BI_)
 
-- Research (*Research design, data visualization, scientific writing*)
+- Research (_Research design, data visualization, scientific writing_)
 
-- Statistics (*Bayesian & frequentist approaches, multiple regression, ANOVA, SEM/MLM*)
+- Statistics (_Bayesian & frequentist approaches, multiple regression, ANOVA, SEM/MLM_)
 
-- Language (*Advanced Japanese, language instruction, natural language processing*)
+- Language (_Advanced Japanese, language instruction, natural language processing_)
 
 ---
 
-## *Resume & CV*
+## _Resume & CV_
 
 Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 
 ---
 
-## *Projects*
+## _Projects_
+
 ### My larger projects, more immediately relevant to my research interests and past academic work:
 
 - [particles](https://github.com/ryancahildebrandt/particles), contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が
 - [thesis](https://github.com/ryancahildebrandt/thesis), the scripts and analyses from my graduate thesis work, ["Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm"](https://scholarworks.rit.edu/theses/10346/)
 - [aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus), a compilation of Japanese texts pulled from 青空文庫, also available on [kaggle](https://www.kaggle.com/datasets/ryancahildebrandt/azbcorpus)
-- [embs](https://github.com/ryancahildebrandt/embs), a project to provide tools streamlining sentence embedding or clustering techniques 
+- [embs](https://github.com/ryancahildebrandt/embs), a project to provide tools streamlining sentence embedding or clustering techniques
 - [siftr](https://github.com/ryancahildebrandt/siftr), a Shiny app using SIF sentence embeddings to separate out unwanted text data
 - [priors](https://github.com/ryancahildebrandt/priors), an experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
 - [bowts](https://github.com/ryancahildebrandt/bowts), an experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
 - [iterate](https://github.com/ryancahildebrandt/iterate), iterative clustering for sklearn clusterers
-- [topics](https://github.com/ryancahildebrandt/topics), experiments and utilities for text topic extraction using decision trees 
+- [topics](https://github.com/ryancahildebrandt/topics), experiments and utilities for text topic extraction using decision trees
 - [simsort](https://github.com/ryancahildebrandt/simsort), sorting texts by semantic similarity
 - [nlt](https://github.com/ryancahildebrandt/nlt), representing tabular data in natural language
 - [gsgf](https://github.com/ryancahildebrandt/gsgf), generate natural language expressions from JSGF
+- [cluster_benchmarks](https://github.com/ryancahildebrandt/cluster_benchmarks), running multiple embedding/clustering workflows in task queues
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest, partially to learn different data techniques, and partially to serve as a quick reference in my day to day work:
 
@@ -57,7 +59,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [genji](https://github.com/ryancahildebrandt/genji), character networks in The Tale of Genji
 - [shrimp](https://github.com/ryancahildebrandt/shrimp), a bayesian time series analysis of some very specific tweets
 - [radicals](https://github.com/ryancahildebrandt/radicals), some experiments with embedding kanji in vector spaces based on radical composition, readings, and meanings
-- [hanakotoba](https://github.com/ryancahildebrandt/hanakotoba), a project looking at the use of 花言葉 in literature 
+- [hanakotoba](https://github.com/ryancahildebrandt/hanakotoba), a project looking at the use of 花言葉 in literature
 - [yoji](https://github.com/ryancahildebrandt/yoji), applying neural networks to generate novel 四字熟語 idioms
 - [ebook_tokenizer](https://github.com/ryancahildebrandt/ebook_tokenizer), a command to add spaces between Japanese words in eBooks to work with Kindle WordWise
 - [kyoto](https://github.com/ryancahildebrandt/kyoto), an exploration of restaurants around train/subway stations in Kyoto
@@ -68,7 +70,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 
 ---
 
-## *Hire Me*
+## _Hire Me_
 
 If you're in need of tutoring or consultation for any of the following topics, please get in touch! I've worked with students ranging from high school to PhD level, both in person and digitally.
 
@@ -88,7 +90,7 @@ If you're in need of tutoring or consultation for any of the following topics, p
 
 ---
 
-## *Contact & Connect*
+## _Contact & Connect_
 
-[Github](https://github.com/ryancahildebrandt) - [LinkedIn](https://linkedin.com/in/rcah) - [ResearchGate](https://researchgate.net/profile/Ryan\_Hildebrandt) <br>
+[Github](https://github.com/ryancahildebrandt) - [LinkedIn](https://linkedin.com/in/rcah) - [ResearchGate](https://researchgate.net/profile/Ryan_Hildebrandt) <br>
 ryancahildebrandt@gmail.com
