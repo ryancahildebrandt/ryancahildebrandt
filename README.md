@@ -52,6 +52,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest, partially to learn different data techniques, and partially to serve as a quick reference in my day to day work:
 
+- [aozora_reibun](https://github.com/ryancahildebrandt/aozora_reibun), Japanese language study email service
 - [aozora_annotator](https://github.com/ryancahildebrandt/aozora_annotator), text annotator for Aozora Bunko corpus texts
 - [probs](https://github.com/ryancahildebrandt/probs), bayesian modeling quick reference for pymc, bambi, rstan, and rstanarm
 - [dists](https://github.com/ryancahildebrandt/dists), simple reference and tools for working with probability distributions
