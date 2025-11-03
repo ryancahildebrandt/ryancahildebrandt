@@ -49,6 +49,7 @@ Take a look at my [Resumes & CV](https://ryancahildebrandt.github.io/resume/)
 - [nlt](https://github.com/ryancahildebrandt/nlt), representing tabular data in natural language
 - [gsgf](https://github.com/ryancahildebrandt/gsgf), generate natural language expressions from JSGF
 - [cluster_benchmarks](https://github.com/ryancahildebrandt/cluster_benchmarks), running multiple embedding/clustering workflows in task queues
+- [c2g](https://github.com/ryancahildebrandt/c2g), condensing text corpora to context free grammars
 
 #### Some stats/NLP/dataviz side work I've done, partially of personal interest, partially to learn different data techniques, and partially to serve as a quick reference in my day to day work:
 
