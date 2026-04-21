@@ -14,7 +14,7 @@ Broadly, I'm an interdisciplinary data scientist with special interests in psych
 
 ## _Skills_
 
-- Programming (_R, Python, SQL, Ruby, Julia, Go_)
+- Programming (_Python, SQL, Go, R, Ruby, Julia_)
 
 - Data analysis (_MiniTab, SPSS, Tableau, KNIME, Google Data Studio, Qualtrics, Excel, Access, Power BI_)
 
