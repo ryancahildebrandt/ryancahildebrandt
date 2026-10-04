@@ -2,6 +2,8 @@
 
 # Ryan Hildebrandt, MS
 
+_all my projects are on [Codeberg](codeberg.org/ryancahildebrandt) now_
+
 ---
 
 ---
